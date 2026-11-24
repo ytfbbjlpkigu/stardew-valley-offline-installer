@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OSX 10.10+ |
+| **Processor** | 2 Ghz | 2 Ghz |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | 256 mb video memory, shader model 3.0+ | 256 mb video memory, OpenGL 2 |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 500 MB available space | 500 MB available space |
+| **OS *** | Windows Vista or greater | Windows Vista or greater |
 
 ---
 
